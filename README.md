@@ -1,2 +1,2 @@
-# Awesome-ML-Project
+# Awesome-ML-Projects
 Learn it by doing it - LIBDI
