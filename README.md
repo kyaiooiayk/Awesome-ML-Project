@@ -2,6 +2,17 @@
 Learn it by doing it - LIBDI
 ***
 
+## Lesson learnt
+- I assumed the data was available or easy to get.
+- Failing to start over and reassess when I realized the project was going in weird directions.
+- The model's objective wasn't directly connected to the way the model might be used.
+- Failing to appreciate the core of the problem is effectively predicting something way bigger and more complex.
+***
+
+## Failed projects
+- [Failed ML Project - How bad is the real estate market getting?](https://www.datafantic.com/failed-project-how-bad-is-the-real-estate-market-getting/)
+***
+
 ## Available projects
 - Building a Data Engineering Project in 20 Minutes for real estate data - [Article](https://www.sspaeti.com/blog/data-engineering-project-in-twenty-minutes/) | [Code](https://github.com/sspaeti-com/practical-data-engineering)
 - Big data pipeline for user sentiment analysis on US stock market - [Code](https://github.com/shafiab/HashtagCashtag)
