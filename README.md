@@ -3,14 +3,15 @@ Learn it by doing it - LIBDI
 ***
 
 ## Lesson learnt
-- I assumed the data was available or easy to get.
-- Failing to start over and reassess when I realized the project was going in weird directions.
-- The model's objective wasn't directly connected to the way the model might be used.
-- Failing to appreciate the core of the problem is effectively predicting something way bigger and more complex.
+- Don't assume the data is available.
+- Don't assume the data is easy to get.
+- Don't fail to start over and reassess when I realized the project was going in weird directions.
+- Don't fail to connect model's objective and the way the model might be used.
+- Don't fail to appreciate the core of the problem could effectively be predicting something way bigger and more complex.
 ***
 
 ## Failed projects
-- [Failed ML Project - How bad is the real estate market getting?](https://www.datafantic.com/failed-project-how-bad-is-the-real-estate-market-getting/)
+- Failed ML Project - How bad is the real estate market getting? [Article](https://www.datafantic.com/failed-project-how-bad-is-the-real-estate-market-getting/) | [Code](https://deepnote.com/workspace/datafantic-3bd1a992-4cfb-4c56-aaaf-931ce087ce8c/project/2022-11-28-How-bad-is-the-real-estate-market-getting-05acae7c-cc6f-4ff0-9048-f4b466d0ea50/notebook/00%20-%20Project%20Summary-c998bc379db741699219a041c4bb0cc0)
 ***
 
 ## Available projects
