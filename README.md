@@ -21,4 +21,6 @@ Learn it by doing it - LIBDI
 - Building a Raspberry Pi Cluster for QSTrader using SLURM - [Part 1](https://www.quantstart.com/articles/building-a-raspberry-pi-cluster-for-qstrader-using-slurm-part-1/) | [Part 2](https://www.quantstart.com/articles/building-a-raspberry-pi-cluster-for-qstrader-using-slurm-part-2/) | [Part 3](https://www.quantstart.com/articles/building-a-raspberry-pi-cluster-for-qstrader-using-slurm-part-3/) | [Part 4](https://www.quantstart.com/articles/building-a-raspberry-pi-cluster-for-qstrader-using-slurm-part-4/)
 - Deploying ML Models Using Kubernetes on your local machine - [Article](https://www.analyticsvidhya.com/blog/2022/01/deploying-ml-models-using-kubernetes/) | [Code](https://github.com/HSubbu/AV-k8s-placement-app)
 - How to deploy a pre-trained model on the CIFAR-10 dataset wrapper around a Flask server, Dockerise it and deploy it on a Kubernetes cluster - [Article](https://opensource.com/article/20/9/deep-learning-model-kubernetes)
+- FastAPI Machine Learning Model Service on Azure Kubernetes Cluster - [Article&Code](https://github.com/ethen8181/machine-learning/tree/master/model_deployment/fastapi_kubernetes)
+***
 ***
