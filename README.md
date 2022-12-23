@@ -22,7 +22,7 @@ Learn it by doing it - LIBDI
 - Deploying ML Models Using Kubernetes on your local machine - [Article](https://www.analyticsvidhya.com/blog/2022/01/deploying-ml-models-using-kubernetes/) | [Code](https://github.com/HSubbu/AV-k8s-placement-app)
 - How to deploy a pre-trained model on the CIFAR-10 dataset wrapper around a Flask server, Dockerise it and deploy it on a Kubernetes cluster - [Article](https://opensource.com/article/20/9/deep-learning-model-kubernetes)
 - FastAPI Machine Learning Model Service on Azure Kubernetes Cluster - [Article&Code](https://github.com/ethen8181/machine-learning/tree/master/model_deployment/fastapi_kubernetes)
-- [A Full End-to-End Deployment of a Machine Learning Algorithm into a Live Production Environment](https://www.kdnuggets.com/2021/12/deployment-machine-learning-algorithm-live-production-environment.html)
+- A Full End-to-End Deployment of a Machine Learning Algorithm into a Live Production Environment - [Article](https://www.kdnuggets.com/2021/12/deployment-machine-learning-algorithm-live-production-environment.html)
 - [A full E2E description of a deployed ML for stock market allocation](https://principiamundi.com/posts/didact-anatomy/?utm_source=substack&utm_medium=email)
 - [How to deploy a stock pricing model](https://principiamundi.com/posts/didact-anatomy/?utm_source=substack&utm_medium=email)
 - [Model deployment using flask](https://towardsdatascience.com/model-deployment-using-flask-c5dcbb6499c9)
