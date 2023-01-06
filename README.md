@@ -23,6 +23,7 @@
 - How to deploy a pre-trained model on the CIFAR-10 dataset wrapper around a Flask server, Dockerise it and deploy it on a Kubernetes cluster - [Article](https://opensource.com/article/20/9/deep-learning-model-kubernetes)
 - FastAPI Machine Learning Model Service on Azure Kubernetes Cluster - [Article&Code](https://github.com/ethen8181/machine-learning/tree/master/model_deployment/fastapi_kubernetes)
 - How to Deploy NLP Models in Production - [Article&Code](https://neptune.ai/blog/deploy-nlp-models-in-production)
+- Image segmentation and Flask deployment - [Article&Code](https://theaisummer.com/deploy-flask-tensorflow/)
 ***
 
 ## Public deployment
