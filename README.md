@@ -26,8 +26,9 @@
 - Image segmentation and Flask deployment - [Article&Code](https://theaisummer.com/deploy-flask-tensorflow/)
 ***
 
-## Public deployment
+## Public server deployment
 - Model deployment using Flask and Heroku - [Article](https://towardsdatascience.com/model-deployment-using-flask-c5dcbb6499c9) | [Code](https://github.com/ravi207/Model_Deployment)
+- Web Application to Extract Topics from Audio with Python with Streamlit and Heroku- [Article&Code](https://www.kdnuggets.com/2023/01/creating-web-application-extract-topics-audio-python.html)
 ***
 
 ## Pipelines
