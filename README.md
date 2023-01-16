@@ -38,3 +38,7 @@
 ## Cloud service: Microsoft Azure
 - A Full End-to-End Deployment of a Machine Learning Algorithm into a Live Production Environment - [Article&Code](https://www.kdnuggets.com/2021/12/deployment-machine-learning-algorithm-live-production-environment.html)
 ***
+
+## Books focused on deployment
+- [Deep Learning in Production, Design, develop, train, deploy, scale and maintain your Machine Learning models](https://theaisummer.com/deep-learning-in-production-book/)
+***
