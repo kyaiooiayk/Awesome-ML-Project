@@ -2,7 +2,7 @@
 *Learn it by doing it!*
 ***
 
-## Lesson learnt
+## Lessons learnt
 - Don't assume the data is available.
 - Don't assume the data is easy to get.
 - Don't fail to start over and reassess when I realized the project was going in weird directions.
