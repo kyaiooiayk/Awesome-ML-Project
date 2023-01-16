@@ -29,6 +29,8 @@
 ## Public server deployment
 - Model deployment using Flask and Heroku - [Article](https://towardsdatascience.com/model-deployment-using-flask-c5dcbb6499c9) | [Code](https://github.com/ravi207/Model_Deployment)
 - Web Application to Extract Topics from Audio with Python with Streamlit and Heroku- [Article&Code](https://www.kdnuggets.com/2023/01/creating-web-application-extract-topics-audio-python.html)
+- Bitcoint price predictor using Flask and Pythonanywhere [Artivle&Code](https://medium.com/analytics-vidhya/how-to-deploy-simple-machine-learning-models-for-free-56cdccc62b8d)
+- Salary regressor using Flask and Pythonanywhere [Article&Code](https://medium.com/@kaustuv.kunal/how-to-deploy-and-host-machine-learning-model-de8cfe4de9c5)
 ***
 
 ## Pipelines
