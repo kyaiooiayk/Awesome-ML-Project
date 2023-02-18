@@ -5,7 +5,7 @@
 ## Lessons learnt
 - Don't assume the data is available.
 - Don't assume the data is easy to get.
-- Don't fail to start over and reassess when I realized the project was going in weird directions.
+- Don't fail to start over and reassess when you realise the project is going in weird directions.
 - Don't fail to connect model's objective and the way the model might be used.
 - Don't fail to appreciate the core of the problem could effectively be predicting something way bigger and more complex.
 ***
