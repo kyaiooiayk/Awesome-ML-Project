@@ -38,6 +38,10 @@
 - A full E2E description of a deployed ML for stock market allocation - [Article](https://principiamundi.com/posts/didact-anatomy/?utm_source=substack&utm_medium=email)
 ***
 
+## Cloud service: AWS
+- [Fine tune a LLM model, deploy it on AWS and monitor its peformances](https://github.com/graviraja/MLOps-Basics)
+***
+
 ## Cloud service: Microsoft Azure
 - A Full End-to-End Deployment of a Machine Learning Algorithm into a Live Production Environment - [Article&Code](https://www.kdnuggets.com/2021/12/deployment-machine-learning-algorithm-live-production-environment.html)
 ***
