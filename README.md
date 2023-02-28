@@ -5,10 +5,17 @@
 ## Lessons learnt
 - Don't assume the data is available.
 - Don't assume the data is easy to get.
+- Don't assume that the labels are perfect (human bias while labelling).
 - Don't fail to start over and reassess when you realise the project is going in weird directions.
 - Don't fail to connect model's objective and the way the model might be used.
 - Don't fail to appreciate the core of the problem could effectively be predicting something way bigger and more complex.
 - Put usability and production needs before model accuracy and not viceversa.
+- Don't start the ML project until you agreed on the scope with the client. Otherwise, the client may move the goalpost later.
+- Don't touch the model until you understand what the real KPI for the business are.
+- Don't start modelling unless you have performed a thoroughly EDA!
+- Don't train the model on the entire data. Split into train, valid, test. Fit your model on train, optimize on valid, and measure on test.
+- Don't toss too many uncorrelated and unnecessary features. Reduce, reduce, reduce down to the essentials!
+- Don't celebrate too early. Watch out for data leakage and overfitted model.
 ***
 
 ## Failed projects
