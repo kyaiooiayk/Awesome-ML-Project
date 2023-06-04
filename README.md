@@ -2,7 +2,17 @@
 *Learn it by doing it!*
 ***
 
-## [Lessons learnt](https://github.com/kyaiooiayk/Awesome-ML-Lessons-Learnt/blob/main/README.md)
+## Lessons learnt
+- Check [this](https://github.com/kyaiooiayk/Awesome-ML-Lessons-Learnt/blob/main/README.md) put for a list of lessons learnt covering:
+  - Data
+  - Project management
+  - Model training
+  - Classification
+  - Training
+  - Recommender system
+  - Baises
+  - Time series
+  - Deep Learning
 ***
 
 ## Failed projects
