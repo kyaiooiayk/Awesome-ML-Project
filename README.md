@@ -3,7 +3,7 @@
 ***
 
 ## Lessons learnt
-- Check [this](https://github.com/kyaiooiayk/Awesome-ML-Lessons-Learnt/blob/main/README.md) put for a list of lessons learnt covering:
+- Check [this out](https://github.com/kyaiooiayk/Awesome-ML-Lessons-Learnt/blob/main/README.md) for a list of lessons learnt covering:
   - Data
   - Project management
   - Model training
