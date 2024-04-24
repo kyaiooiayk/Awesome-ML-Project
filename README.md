@@ -49,6 +49,7 @@
 
 ## Cloud service: AWS
 - Fine tune a LLM model, deploy it on AWS and monitor its peformances [Code](https://github.com/graviraja/MLOps-Basics) | [Article](https://www.ravirajag.dev/blog/mlops-project-setup-part1) | [Notes](https://github.com/kyaiooiayk/MLOPs-NLP-Project-Fine-Tuning-Transformer)
+- AI in the cloud [Blog](https://john.soban.ski/)
 ***
 
 ## Cloud service: Microsoft Azure
