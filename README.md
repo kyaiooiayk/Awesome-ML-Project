@@ -67,3 +67,7 @@
 ## Books focused on deployment
 - [Deep Learning in Production, Design, develop, train, deploy, scale and maintain your Machine Learning models](https://theaisummer.com/deep-learning-in-production-book/)
 ***
+
+## Other resources
+- [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production?tab=readme-ov-file)
+***
