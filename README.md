@@ -70,4 +70,7 @@
 
 ## Other resources
 - [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production?tab=readme-ov-file)
+
+- # Repository
+- [400 + ML system design repo](https://www.evidentlyai.com/ml-system-design?utm_source=substack&utm_medium=email)
 ***
